@@ -1,1 +1,1 @@
-# C# Console ile yapılmış örnek kitaplık projesi
++ C# Console ile yapılmış örnek kitaplık projesi.
